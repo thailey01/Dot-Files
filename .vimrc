@@ -1,0 +1,9 @@
+set number
+set autoindent
+set noswapfile
+set hlsearch
+set ignorecase
+set incsearch
+set expandtab
+set tabstop=2
+set shiftwidth=2
