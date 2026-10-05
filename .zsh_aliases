@@ -1,0 +1,20 @@
+# ZSH
+alias zshrc="nvim ~/.zshrc"
+alias zshals="nvim ~/.zsh_aliases"
+alias zshsrc="source ~/.zshrc"
+
+# Oh My ZSH
+alias pluginfo="omz plugin info"
+
+# VIM
+alias vim="nvim"
+alias vimrc="nvim ~/.vimrc"
+alias vimsrc="source ~/.vimrc"
+
+# NVIM
+alias nvimrc="nvim ~/.nvimrc"
+alias nvimsrc="source ~/.nvimrc"
+
+# Git
+alias gi="git init --bare"
+alias cfg="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
