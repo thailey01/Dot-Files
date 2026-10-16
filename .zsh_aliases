@@ -6,8 +6,10 @@ alias zshsrc="source ~/.zshrc"
 # Oh My ZSH
 alias pluginfo="omz plugin info"
 
+# Aliases
+alias alsgrp="als | grep"
+
 # VIM
-alias vim="nvim"
 alias vimrc="nvim ~/.vimrc"
 alias vimsrc="source ~/.vimrc"
 
@@ -18,3 +20,6 @@ alias nvimsrc="source ~/.nvimrc"
 # Git
 alias gi="git init --bare"
 alias cfg="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
+
+# Tailscale
+alias tsup="sudo tailscale up"
