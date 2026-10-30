@@ -20,6 +20,7 @@ alias nvimsrc="source ~/.nvimrc"
 # Git
 alias gi="git init --bare"
 alias cfg="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
+alias ccfg="/usr/bin/git --git-dir=$HOME/.claude-cfg/ --work-tree=$HOME/.claude"
 
 # Tailscale
 alias tsup="sudo tailscale up"
