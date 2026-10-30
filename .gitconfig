@@ -1,3 +1,11 @@
 [user]
 	email = trevorhailey01@gmail.com
 	name = Trevor Hailey
+[pull]
+	ff = only
+
+[init]
+	defaultBranch = main
+
+[spice "branchCreate"]
+	commit = false

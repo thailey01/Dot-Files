@@ -1,0 +1,13 @@
+# Ignore everything in $HOME by default. To start tracking something new,
+# either whitelist it below or add it explicitly with `cfg add -f <path>`.
+/*
+
+# Tracked files
+!/.gitignore
+!/.bashrc
+!/.gitconfig
+!/.tmux.conf
+!/.vimrc
+!/.zsh_aliases
+!/.zshrc
+!/LICENSE
